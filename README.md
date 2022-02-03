@@ -1,3 +1,5 @@
+This repository is clone of [source code](https://github.com/qfox/step-by-step-1) from [this tutorial](https://www.youtube.com/watch?v=l1G425VcUUg)
+
 # Сборка БЭМ-проектов - шаг за шагом
 
 ## Что это
